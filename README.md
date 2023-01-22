@@ -144,3 +144,5 @@ Berdasarkan [investopedia](https://www.investopedia.com/terms/r/rentalreal-estat
   * Menyediakan informasi segmentasi harga properti kepada departemen marketing untuk dapat menawarkan harga terbaik kepada target market yang sesuai
   * Menyediakan prediksi harga rumah dengan penambahan atau pengurangan fasilitas (fitur) dari properti yang diinginkan customer.
 
+## Dashboard
+Dashboard Link: [Tableau Dashboard](https://public.tableau.com/app/profile/aria5694/viz/DC_Residential_QE/Dashboard1)
