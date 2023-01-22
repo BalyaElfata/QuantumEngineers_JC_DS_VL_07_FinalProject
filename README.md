@@ -145,4 +145,6 @@ Berdasarkan [investopedia](https://www.investopedia.com/terms/r/rentalreal-estat
   * Menyediakan prediksi harga rumah dengan penambahan atau pengurangan fasilitas (fitur) dari properti yang diinginkan customer.
 
 ## Dashboard
+![Dashboard](https://github.com/BalyaElfata/QuantumEngineers_JC_DS_VL_07_FinalProject/blob/main/DC%20Residential%20Properties%20Dashboard.png)
+
 Interactive Dashboard Link: [Tableau Dashboard](https://public.tableau.com/app/profile/aria5694/viz/DC_Residential_QE/Dashboard1)
