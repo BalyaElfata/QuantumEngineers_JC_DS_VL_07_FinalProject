@@ -5,7 +5,7 @@
 Team members:
 
 1. Balya Elfata
-2. Fathin Difa
+2. Fathin Difa Robbani
 3. Aria Dipa Itna Erlangga
 
 Source:
